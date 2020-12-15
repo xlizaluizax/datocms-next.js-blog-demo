@@ -5,10 +5,7 @@ export default function Intro() {
         Incontri-Gay.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-      Gay Blog - Come incontri e chattare con gli adulti gay online
-        </a>
-        .
-      </h4>
+      Gay Blog - Come incontri e chattare con gli adulti gay online</h4>
     </section>
   )
 }
