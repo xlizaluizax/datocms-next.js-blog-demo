@@ -13,14 +13,14 @@ export default function Alert({ preview }) {
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
-              This is page is showing draft content.{' '}
+              Vai in {' '}
               <a
-                href="/api/exit-preview"
+                href="https://taimi.com/"
                 className="underline hover:text-cyan duration-200 transition-colors"
               >
-                Click here
+                chat gay
               </a>{' '}
-              to exit preview mode.
+              e inizia subito a chiacchierare con le coppie!
             </>
           ) : (
             <>
