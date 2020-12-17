@@ -1,5 +1,5 @@
 import Alert from '../components/alert'
-import Nav from '..components/nav'
+import Nav from '../components/nav'
 import Footer from '../components/footer'
 
 export default function Layout({ preview, children }) {
