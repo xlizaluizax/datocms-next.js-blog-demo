@@ -1,8 +1,8 @@
 import Link from 'next/link'
 
 const links = [
-  { href: 'https://github.com/vercel/next.js', label: 'GitHub' },
-  { href: 'https://nextjs.org/docs', label: 'Docs' },
+  { href: 'https://incontri-gay.org/', label: 'Chat Gay' },
+  { href: 'https://incontri-gay.org/posts/video-gay-chat-room-pro-e-contro', label: 'Video Chat Gay' },
 ]
 
 export default function Nav() {
@@ -11,8 +11,8 @@ export default function Nav() {
       <ul className="flex items-center justify-between p-8">
         <li>
           <Link href="/">
-            <a className="text-blue-500 no-underline text-accent-1 dark:text-blue-300">
-              Home
+            <a className="text-blue-500 no-underline text-accent-3 dark:text-blue-300">
+              Incontri-Gay.Org
             </a>
           </Link>
         </li>
