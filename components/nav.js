@@ -8,11 +8,11 @@ const links = [
 export default function Nav() {
   return (
     <nav>
-      <ul className="flex items-center justify-between p-8">
+      <ul className="flex items-center justify-between p-6">
         <li>
           <Link href="/">
             <a className="mb-8 md:mb-16 -mx-5 sm:mx-0">
-              Incontri-Gay.Org
+              Incontri-Gay
             </a>
           </Link>
         </li>
