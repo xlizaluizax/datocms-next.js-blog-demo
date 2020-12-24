@@ -1,8 +1,9 @@
 import Link from 'next/link'
 
 const links = [
-  { href: 'https://incontri-gay.org/', label: 'Chat Gay' },
+  { href: 'https://incontri-gay.org/posts/chat-gay', label: 'Chat Gay' },
   { href: 'https://incontri-gay.org/posts/video-gay-chat-room-pro-e-contro', label: 'Video Chat Gay' },
+  { href: 'https://incontri-gay.org/posts/romeo-gay-chat', label: 'GayRomeo' },
 ]
 
 export default function Nav() {
