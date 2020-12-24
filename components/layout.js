@@ -7,6 +7,7 @@ export default function Layout({ preview, children }) {
     <>
       <div className="min-h-screen">
         <Nav preview={preview} />
+        <Chat />
         <main>{children}</main>
       </div>
       <Footer />

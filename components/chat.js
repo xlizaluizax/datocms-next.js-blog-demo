@@ -2,7 +2,7 @@ import Container from './container'
 
 export default function Chat() {
   return (
-    <Chat>
+    <div>
  <Container>
     <div className="py-28 flex flex-col lg:flex-row items-center">
     <input class="py-3 px-4 bg-gray-200 text-gray-800 border-gray-300 border-2 outline-none placeholder-gray-500 focus:bg-gray-100" type="text" name="name" placeholder="Inserisci il tuo nickname per entrare nella chat">
@@ -17,6 +17,6 @@ export default function Chat() {
     </input>
     </div>
   </Container>
-  </Chat> 
+  </div> 
   )
 }
