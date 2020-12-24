@@ -30,7 +30,6 @@ export default function HeroPost({
           <div className="mb-4 md:mb-0 text-lg">
             <Date dateString={date} />
           </div>
-          <button class="uppercase px-8 py-2 rounded bg-red-300 text-red-600 max-w-max shadow-sm hover:shadow-md">button</button>
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
